@@ -1,3 +1,3 @@
 # AcadGild
 # Project 2
-# Predicting Players Rating
+## Predicting Players Rating
